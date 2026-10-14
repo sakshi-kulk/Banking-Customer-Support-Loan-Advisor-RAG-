@@ -1,0 +1,14 @@
+# Python 3.11 is the supported runtime.
+streamlit>=1.41,<2
+pandas>=2.2,<3
+python-dotenv>=1.0,<2
+pypdf>=5.9,<6
+langchain>=0.3.27,<0.4
+langchain-community>=0.3.31,<0.4
+langchain-core>=0.3.79,<0.4
+langchain-openai>=0.3.35,<0.4
+langchain-chroma>=0.2.6,<0.3
+langchain-text-splitters>=0.3.11,<0.4
+langgraph>=0.6.7,<0.7
+chromadb>=1.0,<2
+pytest>=8,<9
